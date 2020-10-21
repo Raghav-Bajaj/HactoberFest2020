@@ -1,6 +1,6 @@
 # HactoberFest2020
 
-##For anyone who wants to learn git and github . 
+## For anyone who wants to learn git and github . 
 * Create files.
 * Make pulls requests.
 * Open issues.
